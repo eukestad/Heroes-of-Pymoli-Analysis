@@ -4,14 +4,19 @@ This project looks for meaningful insights from player demographics and their pu
 The analysis shows that:
 
 * the majority of the players are male and between the ages of 20 and 24. 
+
 ![Gender Demographics](./Images/gender_demographics.png)
+
 ![Age Demographics](./Images/age_demographics.png)
 
 * Male players buy more items, but tend to spend less per item while players of other genders spend slightly more. 
+
 ![Gender Purchases](./Images/gender_purchases.png)
 
-* The two most popular items are also the most profitable. 
+* The two most popular items are also the most profitable.
+
 ![Popular Purchases](./Images/popular_purchases.png)
+
 ![Profitable Purchases](./Images/profitable_purchases.png)
 
 ## Files in the Repository
