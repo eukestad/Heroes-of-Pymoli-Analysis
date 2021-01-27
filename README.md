@@ -1,4 +1,19 @@
 # Heroes of Pymoli Analysis
+This project looks for meaningful insights from player demographics and their purchasing habits. 
+
+The analysis shows that:
+
+* the majority of the players are male and between the ages of 20 and 24. 
+![Gender Demographics](./Images/gender_demographics.png)
+![Age Demographics](./Images/age_demographics.png)
+
+* Male players buy more items, but tend to spend less per item while players of other genders spend slightly more. 
+![Gender Purchases](./Images/gender_purchases.png)
+
+* The two most popular items are also the most profitable. 
+![Popular Purchases](./Images/popular_purchases.png)
+![Profitable Purchases](./Images/profitable_purchases.png)
+
 ## Files in the Repository
 The main folder in the repository is [Heroes of Pymoli](./Heroes%20of%20Pymoli). This folder contains the Jupyter Notebook and Resources used for the analysis.
 
