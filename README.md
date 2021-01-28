@@ -1,24 +1,6 @@
 # Heroes of Pymoli Analysis
 This project looks for meaningful insights from player demographics and their purchasing habits. 
 
-Three observable trends from the analysis are:
-
-1. The majority of the players are male and between the ages of 20 and 24. 
-
-![Gender Demographics](./Images/gender_demographics.png)
-
-![Age Demographics](./Images/age_demographics.png)
-
-2. Male players buy more items, but tend to spend less per item while players of other genders spend slightly more. 
-
-![Gender Purchases](./Images/gender_purchases.png)
-
-3. The two most popular items are also the most profitable.
-
-![Popular Purchases](./Images/popular_purchases.png)
-
-![Profitable Purchases](./Images/profitable_purchases.png)
-
 ## Files in the Repository
 The main folder in the repository is [Heroes of Pymoli](./Heroes%20of%20Pymoli). This folder contains the Jupyter Notebook and Resources used for the analysis.
 
@@ -32,6 +14,45 @@ The [Images](./Images) folder contains screenshots of the results.
 
 ## Using the Jupyter Notebook 
 Open in Jupyter and set the Kernel to Python 3.6. Run all to see output.
+
+## Output
+The code returns the following:
+
+* Total Number of Players
+
+* Analysis of Total Purchasing Data
+
+* Gender Demographics
+
+* Purchasing Analysis by Gender
+
+* Age Demographics
+
+* Purchasing Analysis by Age
+
+* Top 5 Spenders
+
+* Top 5 Most Popular Items
+
+* Top 5 Most Profitable Items
+
+Three observable trends from the analysis are:
+
+1. The majority of the players are male (84%) and between the ages of 15 and 24 (63%). 
+
+![Gender Demographics](./Images/gender_demographics.png)
+
+![Age Demographics](./Images/age_demographics.png)
+
+2. Male players buy more items (652), but tend to spend less per item (\$3.02) while players of other genders spend slightly more per item (\$3.20 & \$3.35). 
+
+![Gender Purchases](./Images/gender_purchases.png)
+
+3. The two most popular items - *Final Critic (13 purchases)* and *Oathbreaker, Last Hope of the Breaking Storm (12 purchases)* - are also the most profitable at \$59.99 and \$50.76 respectively.
+
+![Popular Purchases](./Images/popular_purchases.png)
+
+![Profitable Purchases](./Images/profitable_purchases.png)
 
 ## Status
 _finished_
